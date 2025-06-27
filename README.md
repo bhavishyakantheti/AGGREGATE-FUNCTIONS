@@ -12,18 +12,22 @@ To practice and understand **SQL aggregate functions** that help in summarizing 
 ## Aggregate Functions Used
 
 **SUM()**
-   - Total availability of all products:
+   - Total availability of all products
+
 **COUNT()**
-  - Total number of customers:
-   - Total number of orders:
-   - Orders placed by each customer:
+  - Total number of customers
+   - Total number of orders
+   - Orders placed by each customer
+
 **AVG()**
-   - Average price of all products:
+   - Average price of all products
+
 **MAX()/MIN()**
-   - Highest and lowest product prices:
-   - Highest customer ID:
+   - Highest and lowest product prices
+   - Highest customer ID
+
 **GROUP BY and HAVING**
-   - Grouped order counts by product:
-   - Grouped customer counts per product with filter:
-   - Products with total price below 1000:
+   - Grouped order counts by product
+   - Grouped customer counts per product with filter
+   - Products with total price below 1000
 
